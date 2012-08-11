@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1344714324 source:/home/steef/Programmeren/Projecten/Catan/Catan/Catan/Code::BlocksProject/Catan/src/main.cpp
+	<SFML/System.hpp>
+	<SFML/Graphics.hpp>
+
